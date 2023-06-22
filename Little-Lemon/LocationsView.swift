@@ -31,9 +31,8 @@ struct LocationsView: View {
                                 RestaurantView(item)
                         }
                         
-                        
                     }
-                    
+    
                 }
                 .navigationBarTitle("")
                 .navigationBarHidden(true)
